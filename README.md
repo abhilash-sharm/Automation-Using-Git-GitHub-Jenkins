@@ -1,5 +1,5 @@
 # Automation-Using-Git-GitHub-Jenkins
-TASK 2
+
 -Create container image that’s has Jenkins installed using Dockerfile
 
 -When we launch this image, it should automatically starts Jenkins service in the container.
